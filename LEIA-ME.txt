@@ -1,0 +1,17 @@
+CAREER SQUAD — Versão para download
+
+COMO USAR
+1. Extraia todos os arquivos deste ZIP para uma pasta no computador.
+2. Abra index.html no Google Chrome, Microsoft Edge ou Firefox.
+3. Clique em Adicionar jogador para começar.
+
+Inclui os 13 países da versão atual, com Trinidad & Tobago.
+
+Os jogadores ficam salvos no navegador usado neste computador.
+O elenco da versão online não é transferido automaticamente para esta cópia.
+Use Exportar elenco para baixar uma planilha CSV com os seus registros.
+A planilha é uma exportação para consulta; o sistema não possui importação.
+Evite limpar os dados do navegador e mantenha os arquivos na mesma pasta.
+
+Não exige instalação nem login. As funcionalidades funcionam sem internet;
+as fontes especiais podem ser substituídas pelas fontes do computador.
